@@ -87,4 +87,4 @@ def upload_filePost():
       #return 'file uploaded successfully'
 		
 if __name__ == '__main__':
-   app.run(debug = True)
+   app.run()
